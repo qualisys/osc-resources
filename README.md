@@ -2,7 +2,7 @@
 
 [Qualisys Track Manager (QTM)](http://www.qualisys.com/software/qualisys-track-manager/) can stream data in [Open Sound Control (OSC)](http://opensoundcontrol.org/) format in real time. This repository contains resources on how to develop OSC clients and related applications that interact with QTM.
 
-The **OSCExample** project in this repository implements an OSC streaming application in C#, using the open-source [SharpOSC](http://github.com/ValdemarOrn/SharpOSC)) library.
+- The **OSCExample** project in this repository implements an OSC streaming application in C#, using the open-source [SharpOSC](http://github.com/ValdemarOrn/SharpOSC)) library.
 
 For detailed technical information on the QTM OSC implementation, please refer to the [documentation for the QTM real-time protocol](https://qualisys.github.io/Real-Time-Protocol-Documentation/).
 
