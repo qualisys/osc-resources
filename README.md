@@ -6,6 +6,8 @@
 
 For detailed technical information on the QTM OSC implementation, please refer to the [documentation for the QTM real-time protocol](https://qualisys.github.io/Real-Time-Protocol-Documentation/).
 
+![](https://s3-eu-west-1.amazonaws.com/content.qualisys.com/2014/01/sound-and-motion.jpg)
+
 ## Example Projects and Academic papers
 
 - Nymoen, K., Voldsund, A., Skogstad, S. A. V. D., Jensenius, A. R., & Tørresen, J. (2012). [Comparing motion data from an ipod touch to a high-end optical infrared marker-based motion capture system](http://www.nime.org/proceedings/2012/nime2012_198.pdf). In *Proceedings of the international conference on new interfaces for musical expression*. 
