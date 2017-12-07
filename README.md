@@ -12,4 +12,4 @@ For detailed technical information on the QTM OSC implementation, please refer t
 - Jensenius, A. R., Nymoen, K., Skogstad, S. A. V. D., & Voldsund, A. (2012). [A study of the noise-level in two infrared marker-based motion capture systems](http://www.arj.no/wp-content/2012/07/Jensenius_SMC_2012a.pdf). In *Proceedings of the 9th Sound and Music Computing Conference*.
 * [Interactive MOCAP 3D Santa Claus, Vilnius 2012](https://youtu.be/U-BX9UPbKh4) by [INDEFORM](http://www.indeform.com/)
 
-Also see [Applications in Sound & Motion with Qualisys systems](http://www.qualisys.com/applications/other/sound-motion) for product details, reference users, customer stories, application examples, and more.
+Also see [Applications in Sound & Motion on the Qualisys website](http://www.qualisys.com/applications/other/sound-motion) for product details, reference users, customer stories, application examples, and more.
