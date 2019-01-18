@@ -10,6 +10,12 @@ For detailed technical information on the QTM OSC implementation, please refer t
 
 ## Example Projects and Academic papers
 
+- [Invisible drumset - making of](https://www.youtube.com/watch?v=6tdQLmIKo2w&index=21&list=LL6cFKcne_eh_5oCkL6emDLw&t=0s)
+
+- [Invisible drumset - performance](https://www.youtube.com/watch?v=hSwX3J7mnFs&index=22&list=LL6cFKcne_eh_5oCkL6emDLw&t=0s)
+
+- [Multimodal recording of a string quartet](https://www.youtube.com/watch?v=wmdGooMLnIA)
+
 - Nymoen, K., Voldsund, A., Skogstad, S. A. V. D., Jensenius, A. R., & Tørresen, J. (2012). [Comparing motion data from an ipod touch to a high-end optical infrared marker-based motion capture system](http://www.nime.org/proceedings/2012/nime2012_198.pdf). In *Proceedings of the international conference on new interfaces for musical expression*. 
 - Jensenius, A. R., Nymoen, K., Skogstad, S. A. V. D., & Voldsund, A. (2012). [A study of the noise-level in two infrared marker-based motion capture systems](http://www.arj.no/wp-content/2012/07/Jensenius_SMC_2012a.pdf). In *Proceedings of the 9th Sound and Music Computing Conference*.
 * [Interactive MOCAP 3D Santa Claus, Vilnius 2012](https://youtu.be/U-BX9UPbKh4) by [INDEFORM](http://www.indeform.com/)
